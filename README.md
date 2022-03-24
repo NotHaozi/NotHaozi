@@ -14,16 +14,14 @@ Here are some ideas to get you started:
 
 -->
 
-
-
 # Hi,I'm shushu! 👋
 **Student**
 
-<img src="https://github-readme-stats.vercel.app/api?username=NotHaozi&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NotHaozi&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 I’m currently working on **HuNan**.
-- 🌱 I’m currently learning **web server**, **backend**.
-- 💬 Ask me about **C++** technology.
+- 🔭 I’m currently working on **China**.
+- 🌱 I’m currently learning **HPC**.
+- 💬 Ask me about **slack off at work** technology.
 - ⚡ Fun fact: 
   - Sleep.
   - Sleep.
@@ -36,10 +34,7 @@ Here are some ideas to get you started:
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_43272349?spm=1010.2135.3001.5343)
 
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
+<img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&column=8" alt="logo" height="160" align="center" style="margin: auto;" />
 
 ## Languages
-<a href="https://github.com/NotHaozi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&theme=vue" />
-</a>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
