@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 # Hi,I'm shushu! 👋
 **Student**
-
-<img src="https://github-readme-stats.vercel.app/api?username=NotHaozi&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
-
 - 🔭 I’m currently working on **China**.
 - 🌱 I’m currently learning **HPC**.
 - 💬 Ask me about **slack off at work** technology.
@@ -36,5 +33,6 @@ Here are some ideas to get you started:
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&column=8" alt="logo" height="160" align="center" style="margin: auto;" />
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=NotHaozi&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
