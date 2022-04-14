@@ -1,19 +1,3 @@
-<!--
-**NotHaozi/NotHaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 # Hi,I'm shushu! 👋
 **Student**
 - 🔭 I’m currently working on **China**.
@@ -33,11 +17,14 @@ Here are some ideas to get you started:
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&row=1&column=8" alt="logo" height="160" align="center" style="margin: auto;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotHaozi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&layout=compact&theme=buefy&hide_border=true" />
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NotHaozi&count_private=true&include_all_commits=true&theme=buefy&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&layout=compact&theme=buefy&hide_border=true" />
+</div>
 
 ## Recommended repositories
-![oneDNN](https://github-readme-stats.vercel.app/api/pin/?username=oneapi-src&repo=oneDNN&show_owner=true&theme=buefy)
-![CUDA_Freshman](https://github-readme-stats.vercel.app/api/pin/?username=Tony-Tan&repo=CUDA_Freshman&show_owner=true&theme=buefy)
+[![oneDNN](https://github-readme-stats.vercel.app/api/pin/?username=oneapi-src&repo=oneDNN&show_owner=true&theme=buefy)](https://github.com/oneapi-src/oneDNN)
+[![CUDA_Freshman](https://github-readme-stats.vercel.app/api/pin/?username=Tony-Tan&repo=CUDA_Freshman&show_owner=true&theme=buefy)](https://github.com/Tony-Tan/CUDA_Freshman)
 
-![HNU-CSEE-Graduate-Courses](https://github-readme-stats.vercel.app/api/pin/?username=GZYZG&repo=HNU-CSEE-Graduate-Courses&show_owner=true&theme=buefy)
-![NotHaozi](https://github-readme-stats.vercel.app/api/pin/?username=NotHaozi&repo=NotHaozi&show_owner=true&theme=buefy)
+[![HNU-CSEE-Graduate-Courses](https://github-readme-stats.vercel.app/api/pin/?username=GZYZG&repo=HNU-CSEE-Graduate-Courses&show_owner=true&theme=buefy)](https://github.com/GZYZG/HNU-CSEE-Graduate-Courses)
+[![NotHaozi](https://github-readme-stats.vercel.app/api/pin/?username=NotHaozi&repo=NotHaozi&show_owner=true&theme=buefy)](https://github.com/NotHaozi/NotHaozi)
