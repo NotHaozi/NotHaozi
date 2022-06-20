@@ -11,8 +11,10 @@
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=NotHaozi&color=green)
 [![Github](https://img.shields.io/github/followers/NotHaozi?label=Github&style=social)](https://github.com/NotHaozi)
-[![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/zhangmh666)
-[![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_43272349?spm=1010.2135.3001.5343)
+<!-- [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/zhangmh666) -->
+<!-- [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](www.baidu.com) -->
+<!-- [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_43272349?spm=1010.2135.3001.5343) -->
+<!-- [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](www.baidu.com) -->
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&row=1&column=8" alt="logo" height="160" align="center" style="margin: auto;">
