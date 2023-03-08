@@ -1,7 +1,7 @@
 # Hi,I'm shushu! 👋
 **Student**
 - 🔭 I’m currently working on **China**.
-- 🌱 I’m currently learning **HPC**.
+- 🌱 I’m currently learning **HPC && AI**.
 - 💬 Ask me about **slack off at work** technology.
 - ⚡ Fun fact: 
   - Sleep.
@@ -24,9 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotHaozi&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
-## Recommended repositories
+<!-- ## Recommended repositories
+[![Paddle-Lite](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=Paddle-Lite&show_owner=true&theme=buefy)](https://github.com/PaddlePaddle/Paddle-Lite)
 [![oneDNN](https://github-readme-stats.vercel.app/api/pin/?username=oneapi-src&repo=oneDNN&show_owner=true&theme=buefy)](https://github.com/oneapi-src/oneDNN)
-[![CUDA_Freshman](https://github-readme-stats.vercel.app/api/pin/?username=Tony-Tan&repo=CUDA_Freshman&show_owner=true&theme=buefy)](https://github.com/Tony-Tan/CUDA_Freshman)
+[![csi-nn2](https://github-readme-stats.vercel.app/api/pin/?username=T-head-Semi&repo=csi-nn2&show_owner=true&theme=buefy)](https://github.com/T-head-Semi/csi-nn2)
+[![HNU-CSEE-Graduate-Courses](https://github-readme-stats.vercel.app/api/pin/?username=GZYZG&repo=HNU-CSEE-Graduate-Courses&show_owner=true&theme=buefy)](https://github.com/GZYZG/HNU-CSEE-Graduate-Courses) -->
 
-[![HNU-CSEE-Graduate-Courses](https://github-readme-stats.vercel.app/api/pin/?username=GZYZG&repo=HNU-CSEE-Graduate-Courses&show_owner=true&theme=buefy)](https://github.com/GZYZG/HNU-CSEE-Graduate-Courses)
-[![NotHaozi](https://github-readme-stats.vercel.app/api/pin/?username=NotHaozi&repo=NotHaozi&show_owner=true&theme=buefy)](https://github.com/NotHaozi/NotHaozi)
