@@ -17,7 +17,7 @@
 <!-- [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](www.baidu.com) -->
 
 ## GitHub Infos
-<img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&row=1&column=8" alt="logo" height="160" align="center" style="margin: auto;">
+<img src="https://github-profile-trophy.vercel.app/?username=NotHaozi&theme=flat&row=1&column=9" alt="logo" height="160" align="center" style="margin: auto;">
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=NotHaozi&count_private=true&include_all_commits=true&theme=buefy&hide_border=true&show_icons=true" />
